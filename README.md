@@ -16,3 +16,22 @@ A Python investment calculator that simulates financial growth using compound in
 ## 👨‍💻 Developer
 
 NkzDev-Cyber
+
+!!!!!UPDATES!!!!!
+
+
+# 📈 InvestCalc-Python V2
+
+A bilingual investment calculator built with Python.
+
+## Features
+
+- 🇧🇷 Portuguese language
+- 🇺🇸 English language
+- Compound interest simulation
+- Monthly contributions
+- Investment analysis
+
+## Technology
+
+Python 🐍
